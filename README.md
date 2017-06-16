@@ -4,4 +4,4 @@ This repository includes:
 - a second version of the gephi file (The City of Ebla_all labels.gephi), with each node labeled according to its bibliographical reference;
 - a high resolution image of the graph published in the book (The City of Ebla_Graph_300dpi.png);
 
-The gephi files will be updated as soon as new references will be added to the digital counterpart of the bibliography (upcoming).
+The gephi files will be updated as soon as new references will be added to the online version of the bibliography (upcoming).
